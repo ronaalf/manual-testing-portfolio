@@ -5,4 +5,4 @@
 **Inputs:** User stories, acceptance criteria, designs
 **Strategy:** Functional, regression, smoke, exploratory
 **Risks:** [List]
-**Exit criteria:** [Define]
+**Exit criteria:** [Define] 
